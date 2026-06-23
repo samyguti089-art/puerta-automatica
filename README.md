@@ -7,7 +7,7 @@
 - Cheiner Ojeda
 - Aly Rivera
 - Jhon Guette
-- 
+- yojaner sanjuan
 
 ## Descripción del proyecto
 
